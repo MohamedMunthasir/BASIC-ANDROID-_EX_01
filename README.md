@@ -29,8 +29,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
-Developed by: NIVESHA P
-RegisterNumber:  212222040108
+Developed by: A.DHANUSH
+RegisterNumber:  212222220010
 */
 ```
 
